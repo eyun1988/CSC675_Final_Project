@@ -1,0 +1,25 @@
+/******************************************************************************
+ * Class: CSC 0675-01 Introduction to Database Systems Fall 2021
+ * Name:  Justin Lam, 
+ *        Edward Yun, 
+ *        Johnson Nguyen, 
+ *        Ana Nytochka
+ * 
+ * File: index.css
+ * 
+ * Description: The OVER OVER arching design provided by React Default
+ *****************************************************************************/
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

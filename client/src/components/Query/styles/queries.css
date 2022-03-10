@@ -1,0 +1,17 @@
+/******************************************************************************
+ * Class: CSC 0675-01 Introduction to Database Systems Fall 2021
+ * Name:  Justin Lam, 
+ *        Edward Yun, 
+ *        Johnson Nguyen, 
+ *        Ana Nytochka
+ * 
+ * File: queries.css
+ * 
+ * Description: style for default query to be executed.
+ *****************************************************************************/
+
+.query_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

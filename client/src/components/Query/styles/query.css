@@ -1,0 +1,15 @@
+/******************************************************************************
+ * Class: CSC 0675-01 Introduction to Database Systems Fall 2021
+ * Name:  Justin Lam, 
+ *        Edward Yun, 
+ *        Johnson Nguyen, 
+ *        Ana Nytochka
+ * 
+ * File: query.css
+ * 
+ * Description: style for card being generated.
+ *****************************************************************************/
+
+.query_card{
+    margin-right: 20px;
+}
